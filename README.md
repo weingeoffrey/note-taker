@@ -16,14 +16,21 @@ Video showcase of functionality: https://drive.google.com/file/d/1dtnkodcxxZTy4d
 
 ## Installation
 npm install express at file location
+
 Need to run start server to initiate Express.js server locally
 
 ## Usage
-Upon downloading the necessary packages and navigating to the root of the project, you will need to open a cmd line application and type node index.js. 
+Load into the page and select Get Started
 
-The user will then be prompted several questions regarding their team and a menu option will appear to continuously add members or finish. 
+Select Note Title and type a title for the note
 
-Once finished a HTML page will be generated under the dist folder titled index.html
+Select Note Text and type a body for the note
+
+A save icon will appear in the upper right corner, press that to save the note
+
+Select the pencil icon in the upper right corner to create a new note
+
+Select the red trash can next to the notes to delete them
 
 
 ## Questions
